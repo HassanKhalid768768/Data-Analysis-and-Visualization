@@ -80,8 +80,5 @@ An intelligent and hybrid anime recommendation system that combines **Collaborat
 
 > 📺 **Watch the demo video here**:  
 
-[Anime Recommender Demo](https://github.com/user-attachments/assets/fd6c943b-fc0f-486d-a844-854337da5997
-
-
-)
+[Anime Recommender Demo](https://github.com/user-attachments/assets/fd6c943b-fc0f-486d-a844-854337da5997)
 
